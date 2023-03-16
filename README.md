@@ -1,7 +1,7 @@
 # Website Fix-Up  
 
 ![Photo of homescreen](images/../assets/images/coursework.png)  
-[Link to page](https://drgunbot.github.io/week1assignment/starter/)
+[Link to page](https://drgunbot.github.io/Horizon-Marketing/)
 
 
 **Welcome to our first project! We were assigned the task of fixing an existing website to meet the following requirements:**
@@ -12,4 +12,6 @@
 4. Heading attributes fell in sequential order
 5. Title elements contained a concise, descriptive title  
 
-I worked hard to ensure that all of these requirements were met, and we hope you enjoy the improved website. Thank you for taking the time to check it out!
+*** I worked hard to ensure that all of these requirements were met.  
+*** I also added some extra features to keep the company happy. It is responsive to screen size - and they year in the footer will dynamically change.  
+*** We hope you enjoy the improved website. Thank you for taking the time to check it out!

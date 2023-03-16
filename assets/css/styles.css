@@ -157,69 +157,70 @@ p {
 }
 
 /* Media queries for tablets */
-    @media (max-width: 900px) {
-.hero {
-    height: 500px;
-}
+@media (max-width: 900px) {
+    .hero {
+        height: 500px;
+    }
 
-/* Clear floats for tablets */
-.float-left,
-.float-right {
-    float: none;
-    margin: 0;
-}
+    /* Clear floats for tablets */
+    .float-left,
+    .float-right {
+        float: none;
+        margin: 0;
+    }
 
-/* Adjust content width for tablets */
-.content {
-    width: 100%;
-    margin-left: 0;
-}
+    /* Adjust content width for tablets */
+    .content {
+        width: 100%;
+        margin-left: 0;
+    }
 
-/* Adjust benefits section width for tablets */
-.benefits {
-    width: 100%;
-    margin-right: 0;
-    margin-bottom: 20px;
-}
+    /* Adjust benefits section width for tablets */
+    .benefits {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
 
-/* Adjust main section boxes and benefit boxes height and padding for tablets */
-.main-section-boxes,
-.benefit-boxes {
-    height: auto;
-    padding: 20px;
-}
+    /* Adjust main section boxes and benefit boxes height and padding for tablets */
+    .main-section-boxes,
+    .benefit-boxes {
+        height: auto;
+        padding: 20px;
+    }
 
-/* Adjust benefit boxes image max width for tablets */
-.benefit-boxes img {
-    max-width: 100px;
-}
+    /* Adjust benefit boxes image max width for tablets */
+    .benefit-boxes img {
+        max-width: 100px;
+    }
 
-/* Adjust main section boxes image max height for tablets */
-.main-section-boxes img {
-    max-height: 150px;
-}
+    /* Adjust main section boxes image max height for tablets */
+    .main-section-boxes img {
+        max-height: 150px;
+    }
 
-/* Adjust header title font size for tablets */
-.header h1 {
-    font-size: 36px;
-}
+    /* Adjust header title font size for tablets */
+    .header h1 {
+        font-size: 36px;
+    }
 
-/* Adjust header menu font size for tablets */
-.header div {
-    font-size: 16px;
-}
+    /* Adjust header menu font size for tablets */
+    .header div {
+        font-size: 16px;
+    }
 
-/* Adjust header menu list item margin for tablets */
-.header div ul li {
-    margin-left: 10px;
-}
+    /* Adjust header menu list item margin for tablets */
+    .header div ul li {
+        margin-left: 10px;
+    }
 
-/* Adjust main section boxes title font size for tablets */
-.main-section-boxes h2 {
-    font-size: 24px;
-}
+    /* Adjust main section boxes title font size for tablets */
+    .main-section-boxes h2 {
+        font-size: 24px;
+    }
 
-/* Adjust footer title font size for tablets */
-.footer h2 {
-    font-size: 16px;
+    /* Adjust footer title font size for tablets */
+    .footer h2 {
+        font-size: 16px;
+    }
 }
